@@ -100,7 +100,7 @@ print(calibration.plot)
 
 
 #########################################################################
-###Step2: subgroup identification by CARR
+###Step2: subgroup identification by CART
 
 ###Create interpretable covariates###
 #We convert all continuous variables into categories 
